@@ -1,4 +1,0 @@
-interface:
-  display_name: "Mortgage Calculator"
-  short_description: "Maintain and extend the mortgage calculator web app."
-  default_prompt: "Use this skill to update the mortgage calculator web app, including loan formulas, early repayment behavior, UI tables, caching, and Excel export."
